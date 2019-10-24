@@ -1,0 +1,7 @@
+1. fix your code - a. fix QueueImplWithArray
+
+2. check in your code to git
+
+3. Implement a stack using LNode class only(no other datastructure)
+
+4.
